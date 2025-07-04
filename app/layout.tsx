@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'renato@localhost:~$',
+  description: 'Computer Engineering Graduate & Full Stack Developer - Portfolio showcasing projects and skills',
+  generator: 'Next.js',
 }
 
 export default function RootLayout({
